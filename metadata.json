@@ -1,0 +1,12 @@
+{
+  "name": "Myra - Personal AI Android Assistant",
+  "description": "Smart, friendly voice-powered personal Android AI assistant like Myra with GF mode, YouTube autoplay, WhatsApp messaging & calling, and instant website design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
